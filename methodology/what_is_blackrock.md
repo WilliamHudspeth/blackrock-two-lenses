@@ -37,9 +37,9 @@ That phrase deserves suspicion, because it is what every conglomerate says. Mark
 
 A sum-of-the-parts valuation assumes the parts are separable and additive — which is, strictly, the opposite of the ecosystem claim. That tension is not a flaw in the model; it is the most important number in it.
 
-Valued mechanically, segment by segment, BlackRock is worth roughly $846 a share before any cross-segment effect — close to the rate-sensitive read of ~$825. The model then adds a single line, a "platform / operating-leverage overlay" of about +$114 a share, to reach the platform-compounder value of ~$959. **That overlay is the ecosystem premium.** It is the dollar value of the claim that the whole exceeds the sum because the parts reinforce one another.
+Valued mechanically, segment by segment, BlackRock is worth roughly $846 a share before any cross-segment effect — close to the rate-sensitive read of ~$825. The model then adds an "iShares operating-leverage overlay" of about +$115 a share (before applying a -$53 terminal-cap correction to keep the model honest to macroeconomic growth rates), to reach the cap-consistent central case of $906. **That overlay is the ecosystem premium.** It is the dollar value of the claim that the whole exceeds the sum because the parts reinforce one another.
 
-Stating it that way changes where the real debate sits. The argument over BlackRock is not whether iShares grows at 3% or 4%. It is whether that overlay should be +$114, zero, or negative. That single line is the most thesis-dependent and most attackable number in the valuation — and that is exactly where an honest disagreement about the company belongs.
+Stating it that way changes where the real debate sits. The argument over BlackRock is not whether iShares grows at 3% or 4%. It is whether that overlay should be +$115, zero, or negative. That single line is the most thesis-dependent and most attackable number in the valuation — and that is exactly where an honest disagreement about the company belongs.
 
 ## The flywheel runs in both directions
 
