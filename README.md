@@ -6,6 +6,11 @@
 
 ---
 
+## The Argument
+
+The valuation gap reflects a fundamental disagreement about what BlackRock actually is. The interesting question isn't whether the SOTP says $959 or $987—it's whether BlackRock's ecosystem of segments makes it worth more together than apart. See the full intellectual centerpiece: [**What is BlackRock?**](methodology/what_is_blackrock.md)
+
+---
 ## Overview
 
 Most BlackRock valuations begin with a single assumption: *BlackRock is an asset manager.*
