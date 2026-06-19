@@ -8,7 +8,7 @@
 
 ## The Argument
 
-The valuation gap reflects a fundamental disagreement about what BlackRock actually is. The interesting question isn't whether the SOTP says $906 or $987—it's whether BlackRock's ecosystem of segments makes it worth more together than apart. See the full intellectual centerpiece: [**What is BlackRock?**](methodology/what_is_blackrock.md)
+The valuation gap reflects a fundamental disagreement about what BlackRock actually is. The interesting question isn't whether the SOTP says $906 or $959—it's whether BlackRock's ecosystem of segments makes it worth more together than apart. See the full intellectual centerpiece: [**What is BlackRock?**](methodology/what_is_blackrock.md)
 
 ---
 ## Overview
@@ -31,7 +31,7 @@ The resulting valuation gap exceeds **$80 per share**. The objective is not to f
 - **A framework, not a number.** The two-lens construction is the spine of the whole analysis; every valuation conclusion flows from it.
 - **Segment-level discounting.** Each business is discounted at its own cost of equity rather than one blended rate on consolidated cash flows.
 - **Disclosed judgment.** Every place where analyst judgment overrides mechanical source data is itemized, with magnitude and rationale.
-- **Stress-tested against reality.** The thesis incorporates BlackRock's March/June 2026 private-credit redemption gating — the first live test of the "durable, infrastructure-like cash flow" claim the bull case depends on.
+- **Stress-tested against reality.** The thesis incorporates BlackRock's March 2026 private-credit redemption gating — the first live test of the "durable, infrastructure-like cash flow" claim the bull case depends on.
 
 ## Key findings
 
@@ -62,7 +62,7 @@ Framed as scenarios, the price embeds roughly a 74% probability of the bull case
 
 ## Methodology (short version)
 
-Sum-of-the-parts across four segments — iShares & Public Markets, Aladdin Technology, GIP Infrastructure, HPS Private Credit — each valued by Gordon Growth (`V = FCFE × (1+g) / (Ke − g)`) at its own cost of equity, with corporate adjustments (net debt, co-invest drag, platform overlay) applied last. Discount rates use a geographic-mix-weighted equity risk premium (Damodaran). A relative-valuation cross-check (EV/EBIT, EV/Sales vs. peers) and a small growth-vs-P/E regression are used only as directional consistency checks, never as the anchor. Full detail in [`methodology/valuation_framework.md`](methodology/valuation_framework.md).
+Sum-of-the-parts across four segments — iShares & Public Markets, Aladdin Technology, GIP Infrastructure, HPS Private Credit — each valued by Gordon Growth (`V = FCFE × (1+g) / (Ke − g)`) at its own cost of equity, with corporate adjustments (net debt, co-invest drag, the iShares platform overlay, and terminal-cap corrections that hold every segment to a terminal rate at or below the risk-free rate) applied last. Discount rates use a geographic-mix-weighted equity risk premium (Damodaran). A relative-valuation cross-check (EV/EBIT, EV/Sales vs. peers) and a small growth-vs-P/E regression are used only as directional consistency checks, never as the anchor. Full detail in [`methodology/valuation_framework.md`](methodology/valuation_framework.md).
 
 ## Repository structure
 
@@ -73,7 +73,7 @@ blackrock-two-lenses/
 │   ├── On_BLK_Two_Lenses.pdf      # memo (p.1) + core narrative
 │   └── On_BLK_Two_Lenses.docx
 ├── model/
-│   └── On_BLK_SOTP_Model.xlsx     # formula-driven SOTP, sensitivity grid, two-lens bridge
+│   └── On_BLK_SOTP_Model.xlsx     # formula-driven SOTP, two-stage detail, reverse-DCF & sensitivity tabs, two-lens bridge
 ├── charts/
 │   ├── expectations_ladder.png    # Reverse DCF implied expectations
 │   ├── lens_comparison.png
