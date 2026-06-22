@@ -69,6 +69,7 @@ Sum-of-the-parts across four segments — iShares & Public Markets, Aladdin Tech
 ```
 blackrock-two-lenses/
 ├── README.md
+├── LICENSE
 ├── report/
 │   ├── On_BLK_Two_Lenses.pdf      # memo (p.1) + core narrative
 │   └── On_BLK_Two_Lenses.docx
